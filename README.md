@@ -1,4 +1,4 @@
-WebsiteBlocker
+Website Blocker
 ==============
 
 Block/unblock websites without installing any software
